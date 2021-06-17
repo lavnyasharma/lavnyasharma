@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [lavanya2212.netlify.app](lavanya2212.netlify.app)
+- 👨‍💻 All of my projects are available at [lavanya2212.netlify.app](http://lavanya2212.netlify.app)
 
 - 💬 Ask me about **Html, Css ,c, C++ ,Python, Bootstrap**
 
